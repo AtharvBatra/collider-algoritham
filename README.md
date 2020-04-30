@@ -1,0 +1,2 @@
+# collider-algoritham
+nothing personal
